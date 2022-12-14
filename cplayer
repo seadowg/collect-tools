@@ -1,0 +1,4 @@
+#!/bin/bash
+
+adb shell "mkdir -p /sdcard/Android/data/org.odk.collect.android/files/layers"
+adb push $1 /sdcard/Android/data/org.odk.collect.android/files/layers
