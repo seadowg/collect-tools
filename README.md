@@ -16,3 +16,9 @@ brew install collect-tools
 ```bash
 cplayer mybasemap.file
 ```
+
+### Pull all Collect files to computer
+
+```bash
+pulldir ~/Downloads
+```

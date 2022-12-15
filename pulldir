@@ -1,0 +1,3 @@
+#!/bin/bash
+
+adb pull /sdcard/Android/data/org.odk.collect.android/files $1
